@@ -1,0 +1,9 @@
+{
+   "name": "zclip",
+   "version": "1.0.0-1",
+   "description": "zclip module",
+   "main": "zclip.js",
+   "files": [
+     "ZeroClipboard.swf"
+   ]
+}

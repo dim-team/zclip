@@ -1,0 +1,1 @@
+jQuery component for dim framework
